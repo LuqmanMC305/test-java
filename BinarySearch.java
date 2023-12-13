@@ -28,7 +28,7 @@ public class BinarySearch
     
     public static void main(String[] args) 
     {
-         int[] nums = {0,2,3,4,33,47};
+         int[] nums = {0,2,3,4,33,48};
          int target = 2;   
          System.out.println(binarySearch(nums, target));
     }
